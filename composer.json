@@ -1,5 +1,5 @@
 {
-    "name": "ae-ds/dropship",
+    "name": "aeds/dropship",
     "description": "Aliexpress dropshipping sdk",
     "require": {
         "php": ">=7.2"
