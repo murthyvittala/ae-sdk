@@ -3,7 +3,7 @@
     "description": "Aliexpress dropshipping sdk",
     "require": {
         "php": ">=7.2"
-    }
+    },
 	"autoload": {
         "psr-0": {
             "HelloWorld": "src/"
