@@ -1,4 +1,6 @@
 <?php
+namespace ae-ds;
+
 class UrlConstants
 {
 	static $api_gateway_url_tw = "https://api-sg.aliexpress.com/sync";

@@ -1,4 +1,6 @@
 <?php
+namespace ae-ds;
+
 class Constants
 {
 	static $log_level_debug = "DEBUG";

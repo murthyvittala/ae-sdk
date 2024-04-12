@@ -1,4 +1,6 @@
 <?php
+namespace ae-ds;
+
 class IopLogger
 {
 	public $conf = array(
