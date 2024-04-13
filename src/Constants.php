@@ -1,5 +1,5 @@
 <?php
-namespace aeDs;
+namespace aeds;
 
 class Constants
 {
