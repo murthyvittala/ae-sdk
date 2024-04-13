@@ -1,6 +1,8 @@
 {
     "name": "aeds/dropship",
     "description": "Aliexpress dropshipping sdk",
+	"type": "library",
+    "license": "GPL-2.0-or-later",
     "require": {
         "php": ">=7.2"
     },
